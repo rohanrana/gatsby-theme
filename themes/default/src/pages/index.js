@@ -8,8 +8,9 @@ export default class Index extends Component {
       <Layout >
         <div>
           <h1>This is the theme default</h1>
-          <Box>This content should be in box...</Box>
+          <Box>This content should be in box..</Box>
         </div>
+
       </Layout>
     );
   }

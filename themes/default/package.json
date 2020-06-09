@@ -1,0 +1,29 @@
+{
+  "name": "default",
+  "version": "0.0.1",
+  "description": "A Gatsby theme we built live",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.23.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "gatsby-plugin-sass": "^2.3.3",
+    "node-sass": "^4.14.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.23.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "gatsby-plugin-sass": "^2.3.3",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "core": "*",
+    "@mdx-js/mdx": "^1.6.5",
+    "@mdx-js/react": "^1.6.5",
+    "gatsby-mdx": "^1.0.0",
+    "gatsby-plugin-mdx": "^1.2.14",
+    "gatsby-plugin-page-creator": "^2.3.8"
+  }
+}

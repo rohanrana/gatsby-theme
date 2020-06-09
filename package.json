@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "gatsby-themes",
+  "version": "1.0.0",
+  "main": "gatsby-config.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "default": "*",
+    "gatsby": "^2.23.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "gatsby-plugin-sass": "^2.3.3",
+    "node-sass": "^4.14.1"
+  },
+  "workspaces": [
+    "/",
+    "themes/*"
+  ]
+}

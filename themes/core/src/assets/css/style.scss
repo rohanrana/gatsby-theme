@@ -1,0 +1,13 @@
+$font-stack: 'Courier New', Courier, monospace;
+$primary-color: #333;
+
+// body{
+//     background-color:turquoise;
+// }
+
+.coreThemeCheck{
+    color :$primary-color;
+    font-weight: 600;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
